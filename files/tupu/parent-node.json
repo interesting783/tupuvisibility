@@ -1,0 +1,7 @@
+{
+  "name": "父类",
+  "description": "这是一个父类节点",
+  "iri": "http://example.org/class/parent",
+  "nodeType": "CLASS",
+  "ontologyName": "测试本体"
+}

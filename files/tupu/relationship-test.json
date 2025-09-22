@@ -1,0 +1,7 @@
+{
+  "sourceNodeId": 3,
+  "targetNodeId": 4,
+  "relationshipName": "继承",
+  "relationshipType": "CLASS_RELATION",
+  "description": "表示子类继承父类"
+}
